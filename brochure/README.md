@@ -3,7 +3,7 @@
 `book.html` is the source; `AV_Events_Agency_Book.pdf` is the printed result (A4, 13 pages).
 
 ## Adding photos
-- New season: save as `img/season/1.jpg` … `6.jpg`
+- New season photos live in `img/season/` (1–5.jpg, first one is the large photo)
 
 Empty slots stay as beige placeholders until the file exists.
 
