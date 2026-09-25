@@ -4,7 +4,6 @@
 
 ## Adding photos
 - New season: save as `img/season/1.jpg` … `6.jpg`
-- Team: save as `img/team/1.jpg` … `6.jpg`, then edit the names and roles on the Team page in `book.html`
 
 Empty slots stay as beige placeholders until the file exists.
 
